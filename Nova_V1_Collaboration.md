@@ -12,3 +12,10 @@ Practical knowledge of enterprise software engineering
 Experience working in cross-functional engineering teams
 Understanding of scalable architecture and deployment practices
 Industry-ready skills and confidence to contribute to large-scale software projects
+
+Team Nova Version - V1
+Gowthami U
+Madhavi P
+Lakshya V 
+.........
+
